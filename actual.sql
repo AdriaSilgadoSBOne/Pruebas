@@ -35,3 +35,5 @@ DELETE FROM usuarios WHERE id = 3;
 
 -- Mostrar la tabla después de las operaciones
 SELECT * FROM usuarios;
+
+SELECT nombre FROM usuarios;
